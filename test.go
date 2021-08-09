@@ -13,12 +13,4 @@ func main() {
 	//如果我想表示1.020怎么办
 	var a float32 = 1.00120
 	fmt.Println(a)
-	fmt.Println(a)
-	fmt.Println(a)
-	fmt.Println(a)
-	fmt.Println(a)
-	//if i want do this thing  The dead is erevywhere
-	fmt.Println(a)
-	fmt.Println(a)
-	fmt.Println(a)
 }
