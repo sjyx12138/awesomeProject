@@ -14,4 +14,9 @@ func main() {
 	var a float32 = 1.00120
 	fmt.Println(a)
 	fmt.Println(a)
+	fmt.Println(a)
+	fmt.Println(a)
+	fmt.Println(a)
+	fmt.Println(a)
+	fmt.Println(a)
 }
