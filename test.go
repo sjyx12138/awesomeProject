@@ -17,5 +17,6 @@ func main() {
 	fmt.Println(a)
 	fmt.Println(a)
 	fmt.Println(a)
+        //if i want do this thing  The dead is erevywhere
 	fmt.Println(a)
 }
