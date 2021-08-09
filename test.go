@@ -21,4 +21,6 @@ func main() {
 	fmt.Println(a)
 	//本地库的更新
 	fmt.Println(a)
+	//园出库更新
+	fmt.Println(a)
 }
