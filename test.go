@@ -19,4 +19,6 @@ func main() {
 	fmt.Println(a)
 	fmt.Println(a)
 	fmt.Println(a)
+	//本地库的更新
+	fmt.Println(a)
 }
