@@ -19,4 +19,6 @@ func main() {
 	fmt.Println(a)
 	fmt.Println(a)
 	fmt.Println(a)
+	//园出库更新
+	fmt.Println(a)
 }
